@@ -11,4 +11,10 @@ And for the classification process we have used the Convolution Neural Networks.
 
 *OpenCV
 
+*TensorFlow
+
+
+# Tools
+
+*Anaconda Spyder
 
