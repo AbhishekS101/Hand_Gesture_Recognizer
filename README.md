@@ -4,14 +4,11 @@ For recognizing we have used the MNIST (Modified National Institute of Standards
 You can look at it https://www.kaggle.com/datamunge/sign-language-mnist
 
 And for the classification process we have used the Convolution Neural Networks.
-#Dependencies
+
+# Dependencies
 
 *Keras
 
 *OpenCV
 
-*TensorFLow
 
-#Tools
-
-Anaconda Spyder
